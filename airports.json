@@ -163943,6 +163943,18 @@
         "lon": -88.17549896,
         "tz": "America/Chicago"
     },
+    "KJPN": {
+        "icao": "KJPN",
+        "iata": "JPN",
+        "name": "Pentagon Army Heliport",
+        "city": "Washington",
+        "state": "DC",
+        "country": "US",
+        "elevation": 43,
+        "lat": 38.8748889,
+        "lon": -77.0566667,
+        "tz": "America/New_York"
+    },
     "KJPX": {
         "icao": "KJPX",
         "iata": "HTO",
@@ -163965,6 +163977,18 @@
         "elevation": 705,
         "lat": 35.3877983093,
         "lon": -80.7090988159,
+        "tz": "America/New_York"
+    },
+    "KJRA": {
+        "icao": "KJRA",
+        "iata": "JRA",
+        "name": "West 30th Street Heliport",
+        "city": "New York",
+        "state": "New York",
+        "country": "US",
+        "elevation": 7,
+        "lat": 40.7549028,
+        "lon": -74.0070597,
         "tz": "America/New_York"
     },
     "KJRO": {
@@ -351634,30 +351658,6 @@
         "lat": 40.542524,
         "lon": 122.3586,
         "tz": "Asia/Shanghai"
-    },
-    "KJRA": {
-        "icao": "KJRA",
-        "iata": "JRA",
-        "name": "West 30th Street Heliport",
-        "city": "New York",
-        "state": "New York",
-        "country": "US",
-        "elevation": 7,
-        "lat": 40.7549028,
-        "lon": -74.0070597,
-        "tz": "America/New_York"
-    },
-    "KJPN": {
-        "icao": "KJPN",
-        "iata": "JPN",
-        "name": "Pentagon Army Heliport",
-        "city": "Washington",
-        "state": "DC",
-        "country": "US",
-        "elevation": 43,
-        "lat": 38.8748889,
-        "lon": -77.0566667,
-        "tz": "America/New_York"
     },
     "ZYYY": {
         "icao": "ZYYY",
