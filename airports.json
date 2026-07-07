@@ -154799,6 +154799,18 @@
         "lon": -102.802001953,
         "tz": "America/Denver"
     },
+    "KDJT": {
+        "icao": "KDJT",
+        "iata": "PBI",
+        "name": "President Donald J. Trump International Airport (formerly: Palm Beach International Airport)",
+        "city": "West Palm Beach",
+        "state": "Florida",
+        "country": "US",
+        "elevation": 20,
+        "lat": 26.6832008362,
+        "lon": -80.0955963135,
+        "tz": "America/New_York"
+    },
     "KDKB": {
         "icao": "KDKB",
         "iata": "",
@@ -173026,18 +173038,6 @@
         "lat": 45.7089996338,
         "lon": -90.4024963379,
         "tz": "America/Chicago"
-    },
-    "KPBI": {
-        "icao": "KPBI",
-        "iata": "PBI",
-        "name": "Palm Beach International Airport",
-        "city": "West Palm Beach",
-        "state": "Florida",
-        "country": "US",
-        "elevation": 19,
-        "lat": 26.6832008362,
-        "lon": -80.0955963135,
-        "tz": "America/New_York"
     },
     "KPBX": {
         "icao": "KPBX",
@@ -246922,6 +246922,18 @@
         "lat": -5.5312900543,
         "lon": -47.4599990845,
         "tz": "America/Fortaleza"
+    },
+    "SBJA": {
+        "icao": "SBJA",
+        "iata": "JJG",
+        "name": "Humberto Ghizzo Bortoluzzi Regional Airport",
+        "city": "Jaguaruna",
+        "state": "Santa Catarina",
+        "country": "BR",
+        "elevation": 120,
+        "lat": -28.6753,
+        "lon": -49.0596,
+        "tz": "America/Sao_Paulo"
     },
     "SBJC": {
         "icao": "SBJC",
@@ -345263,6 +345275,18 @@
         "lon": 142.7409973145,
         "tz": "Australia/Melbourne"
     },
+    "YSWS": {
+        "icao": "YSWS",
+        "iata": "WSI",
+        "name": "Western Sydney International (Nancy-Bird Walton) Airport",
+        "city": "Sydney",
+        "state": "New South Wales",
+        "country": "AU",
+        "elevation": 262,
+        "lat": -33.888056,
+        "lon": 150.714722,
+        "tz": "Australia/Sydney"
+    },
     "YSYN": {
         "icao": "YSYN",
         "iata": "",
@@ -350231,6 +350255,18 @@
         "lon": 118.8990020752,
         "tz": "Asia/Shanghai"
     },
+    "ZSJX": {
+        "icao": "ZSJX",
+        "iata": "JNH",
+        "name": "Jiaxing Nanhu Airport",
+        "city": "Jiaxing",
+        "state": "Zhejiang",
+        "country": "CN",
+        "elevation": 15,
+        "lat": 30.698056,
+        "lon": 120.663056,
+        "tz": "Asia/Shanghai"
+    },
     "ZSLD": {
         "icao": "ZSLD",
         "iata": "LCX",
@@ -350541,6 +350577,18 @@
         "elevation": 0,
         "lat": 34.059056,
         "lon": 117.555278,
+        "tz": "Asia/Shanghai"
+    },
+    "ZSYA": {
+        "icao": "ZSYA",
+        "iata": "YTY",
+        "name": "Yangzhou Taizhou Airport",
+        "city": "Yangzhou",
+        "state": "Jiangsu",
+        "country": "CN",
+        "elevation": 7,
+        "lat": 32.5634,
+        "lon": 119.7198,
         "tz": "Asia/Shanghai"
     },
     "ZSYH": {
