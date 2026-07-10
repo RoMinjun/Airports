@@ -247523,6 +247523,18 @@
         "lon": -42.81,
         "tz": "America/Fortaleza"
     },
+    "SNZB": {
+        "icao": "SNZB",
+        "iata": "",
+        "name": "Rancho Sumidor Airport",
+        "city": "Rio do Oeste",
+        "state": "Santa Catarina",
+        "country": "BR",
+        "elevation": 1476,
+        "lat": -27.191944,
+        "lon": -49.831390,
+        "tz": "America/Sao_Paulo"
+    },
     "SBSC": {
         "icao": "SBSC",
         "iata": "SNZ",
@@ -286333,15 +286345,15 @@
     },
     "SSRS": {
         "icao": "SSRS",
-        "iata": "",
-        "name": "Rancho Sumidor Airport",
-        "city": "Rio Do Oeste",
-        "state": "Santa-Catarina",
+        "iata": "BRB",
+        "name": "Barreirinhas Lençóis Maranhenses Regional Airport",
+        "city": "Barreirinhas",
+        "state": "Maranhão",
         "country": "BR",
-        "elevation": 1476,
-        "lat": -27.1919441223,
-        "lon": -49.8313903809,
-        "tz": "America/Sao_Paulo"
+        "elevation": 66,
+        "lat": -2.756667,
+        "lon": -42.80472,
+        "tz": "America/Fortaleza"
     },
     "SSRT": {
         "icao": "SSRT",
