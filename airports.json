@@ -178475,6 +178475,18 @@
         "lon": -81.14569855,
         "tz": "America/New_York"
     },
+    "KSVR": {
+        "icao": "KSVR",
+        "iata": "",
+        "name": "South Valley Regional Airport",
+        "city": "West Jordan",
+        "state": "Utah",
+        "country": "US",
+        "elevation": 4606,
+        "lat": 40.61954666,
+        "lon": -111.99288916,
+        "tz": "America/Denver"
+    },
     "KSWF": {
         "icao": "KSWF",
         "iata": "SWF",
@@ -180562,18 +180574,6 @@
         "lat": 42.9210014343,
         "lon": -112.8809967041,
         "tz": "America/Boise"
-    },
-    "KU42": {
-        "icao": "KU42",
-        "iata": "",
-        "name": "South Valley Regional Airport",
-        "city": "West Jordan",
-        "state": "Utah",
-        "country": "US",
-        "elevation": 4607,
-        "lat": 40.6195556,
-        "lon": -111.9928889,
-        "tz": "America/Denver"
     },
     "KU43": {
         "icao": "KU43",
@@ -344338,6 +344338,18 @@
         "lat": -31.6535282135,
         "lon": 138.6095275879,
         "tz": "Australia/Adelaide"
+    },
+    "YRYW": {
+        "icao": "YRYW",
+        "iata": "",
+        "name": "Raywood Airport",
+        "city": "Raywood",
+        "state": "Victoria",
+        "country": "AU",
+        "elevation": 450,
+        "lat": -36.5416666667,
+        "lon": 144.2411111111,
+        "tz": "Australia/Melbourne"
     },
     "YSAH": {
         "icao": "YSAH",
